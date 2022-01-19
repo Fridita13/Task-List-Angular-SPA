@@ -1,7 +1,7 @@
 import {Task} from "./Task"
 
 
-export cosnt TASKS: Task[] = [
+export const TASKS: Task[] = [
     {
         id: 1,
         text: "Terminar primer modulo de Angular",
